@@ -54,11 +54,11 @@ The game takes place in an enchanted medieval forest filled with towering trees,
 
 ### Character Sprite
 - Artist: Jump_Button (@Jump_Button)
-- Source: CraftPix
-- License: https://craftpix.net/file-licenses/
+- Source: JumpButton
+- Link: https://jumpbutton.itch.io/girlknightasset
 
 ### Background Sprite
 - Source: CraftPix
-- License: https://craftpix.net/file-licenses/
+- Link: https://craftpix.net/freebies/free-platformer-game-tileset-pixel-art/
 
 ---
