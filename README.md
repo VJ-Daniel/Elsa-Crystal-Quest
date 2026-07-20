@@ -49,3 +49,16 @@ The game takes place in an enchanted medieval forest filled with towering trees,
 | **Left Shift** | Dash |
 
 ---
+
+## Asset Credits
+
+### Character Sprite
+- Artist: Jump_Button (@Jump_Button)
+- Source: CraftPix
+- License: https://craftpix.net/file-licenses/
+
+### Background Sprite
+- Source: CraftPix
+- License: https://craftpix.net/file-licenses/
+
+---
